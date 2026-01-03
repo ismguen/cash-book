@@ -47,3 +47,6 @@ Der Aufbau ist für alle Monate identisch.
 3. Einnahmen und Ausgaben erfassen
 4. Summen prüfen
 5. Jahresübersicht auswerten
+
+## Demo
+https://docs.google.com/spreadsheets/d/1NnX841AKMXum8eLYDPQNYCY1bpKIYyaMcPTE-JQBTn0/edit?usp=sharing
